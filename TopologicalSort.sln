@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopologicalSort", "TopologicalSort\TopologicalSort.csproj", "{B0313294-5AA9-4E56-93E9-1B9500EE3FA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0313294-5AA9-4E56-93E9-1B9500EE3FA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0313294-5AA9-4E56-93E9-1B9500EE3FA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0313294-5AA9-4E56-93E9-1B9500EE3FA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0313294-5AA9-4E56-93E9-1B9500EE3FA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0A0E45-8240-4747-B4A5-ED76B5BDF93C}
+	EndGlobalSection
+EndGlobal
