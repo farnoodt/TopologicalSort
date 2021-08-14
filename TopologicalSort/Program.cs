@@ -17,5 +17,7 @@ namespace TopologicalSort
             g.Sort();
             Console.ReadLine();
         }
+        // Time compexity O(V+E)
+        //Space complexity O(V)
     }
 }
