@@ -38,7 +38,7 @@ namespace TopologicalSort
             Console.ReadLine();
         }
 
-        public void SortUtil(int startNode, bool[] Visited, Stack<int> Q)
+        public void SortUtil(int startNode, bool[] Visited, Stack<int> S)
         {
             Visited[startNode] = true;
             List<int> node = new List<int>();
@@ -52,7 +52,7 @@ namespace TopologicalSort
                     
                 }
             }
-            Q.Push(startNode);
+            S.Push(startNode);
         }
     }
 }
