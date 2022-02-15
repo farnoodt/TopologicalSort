@@ -48,7 +48,7 @@ namespace TopologicalSort
             {
                 if (!Visited[child])
                 {
-                    SortUtil(child, Visited, Q);
+                    SortUtil(child, Visited, S);
                     
                 }
             }
